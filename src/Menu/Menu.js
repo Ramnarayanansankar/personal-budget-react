@@ -11,7 +11,7 @@ function Menu() {
     <nav
         role="navigation"
         aria-label="Main menu"
-        itemscope
+        itemScope
         itemType="https://schema.org/SiteNavigationElement"
 
 
